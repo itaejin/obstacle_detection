@@ -17,6 +17,14 @@ Before running the project, you need to install the required libraries. This pro
 
 1. **Clone the repository:**
 
-   ```bash
    git clone https://github.com/swnswx/yellowblock_obstacle_detection.git
    cd yellowblock_obstacle_detection
+
+2. **Create a virtual environment (optional but recommended):**
+
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3. **Install the required libraries:**
+
+    pip install opencv-python-headless ultralytics numpy
