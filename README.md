@@ -1,4 +1,4 @@
-# yellowblock_obstacle_detection# Yellow Block Obstacle Detection
+# yellowblock_obstacle_detection
 
 This project is designed to detect obstacles on yellow tactile paving blocks using YOLOv8 models. The project is divided into two main steps: detecting the yellow blocks and then detecting obstacles on those blocks.
 
