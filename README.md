@@ -1,4 +1,4 @@
-# yellowblock_obstacle_detection
+# obstacle_detection
 
 This project is designed to detect obstacles on yellow tactile paving blocks using YOLOv8 models. The project is divided into two main steps: detecting the yellow blocks and then detecting obstacles on those blocks.
 
@@ -8,9 +8,9 @@ Before running the project, you need to install the required libraries. This pro
 
 1. **Clone the repository:**
 
-   git clone https://github.com/itaejin/yellowblock_obstacle_detection.git
+   git clone https://github.com/itaejin/obstacle_detection.git
    
-   cd yellowblock_obstacle_detection
+   cd obstacle_detection
 
 3. **Create a virtual environment (optional but recommended):**
 
