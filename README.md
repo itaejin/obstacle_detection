@@ -8,7 +8,7 @@ Before running the project, you need to install the required libraries. This pro
 
 1. **Clone the repository:**
 
-   git clone https://github.com/swnswx/yellowblock_obstacle_detection.git
+   git clone https://github.com/itaejin/yellowblock_obstacle_detection.git
    
    cd yellowblock_obstacle_detection
 
